@@ -1,0 +1,2 @@
+1st line of text.txt	
+2nd line of text.txt
